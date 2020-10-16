@@ -22,7 +22,7 @@ public class Main {
              System.out.println("Enter the circle:");
              String cir=br.next();
              if(cir.equalsIgnoreCase("k")||cir.equalsIgnoreCase("q")) {
-             	/* You code Here */  
+             	/* You code Here  call  method calculateCost() and pass all input find total cost in that method*/  
              }else {
             	/* You code Here */  
              }
